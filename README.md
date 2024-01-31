@@ -1,0 +1,2 @@
+This is a machine learning project to detect detect heart disease with analysis of three key algorithms- Random Forest, Logistic Regression, and K-Nearest Neighbors (KNN)- was conducted utilizing a dataset comprising information from 1025 patients.
+The outcomes revealed the Random Forest algorithm's exceptional performance, achieving a flawless 97.24% prediction accuracy, while Logistic Regression demonstrated strong predictive ability at approximately 87.80%. KNN showcased moderate predictive power with an accuracy of around 74.63%.
